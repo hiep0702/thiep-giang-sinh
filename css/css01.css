@@ -9,8 +9,9 @@ and open the template in the editor.
 */
 
 body {
-  background-image: url("../img/merry-christmas_poster02.png");
-  background-size: auto;
+  /* background-image: url("../img/merry-christmas_poster02.png"); */
+  background-image: url("../img/happybirthday_s_diep.png");
+  background-size: 100%;
   background-repeat: no-repeat;
   font-family: "Fredoka One", cursive;
   color: white;
@@ -21,7 +22,7 @@ body {
   background-image: url("../img/thiepgiangsinh.jpg");
   background-repeat: no-repeat;
   background-position: left center;
-  background-size: auto;
+  background-size: 100%;
 }
 h1.heading {
   font-family: "Pacifico", cursive;
