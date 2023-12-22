@@ -1,7 +1,7 @@
 function giang_sinh_ctrl($scope, ngAudio) { 
   // $scope.audio = ngAudio.load('ms/come-from-stars.mp3');
   // $scope.audio = ngAudio.load('ms/giangsinh.m4a.m4a');
-  $scope.audio = ngAudio.load('ms/pianohoctiengmeokeu.mp3');
+  $scope.audio = ngAudio.load('ms/1.mp3');
   var james = $("#bond");
 
   var right = function() {
